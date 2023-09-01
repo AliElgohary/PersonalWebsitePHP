@@ -1,0 +1,25 @@
+{
+  "avatar": "./avatar.jpeg",
+  "name": "Ali Elgohary",
+  "email": "alielgohary35@gmail.com",
+  "city": "Kafr-elsheikh",
+  "bio": "I am a passionate technologist and coder with a keen interest in web development. I am always eager to learn new things and stay up-to-date on the latest trends. I have learned a variety of tech stacks and have applied them in many projects. I am always looking for new ways to use technology to solve problems.",
+  "skills": [
+    "Web Development",
+    "JavaScript",
+    "PHP",
+    "HTML/CSS",
+    "React",
+    "Node.js",
+    "Database Design",
+    "Problem Solving"
+  ],
+  "experience": [
+    {
+      "position": "Full-Stack Developer",
+      "company": "sprints.ai",
+      "location": "Cairo, Egypt",
+      "description": "Worked on various web projects, including building and maintaining web applications, implementing new features, and optimizing performance."
+    }
+  ]
+}
